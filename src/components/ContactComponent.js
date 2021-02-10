@@ -12,7 +12,7 @@ class Contact extends Component {
             phoneNum:'',
             email:'',
             agree:false,
-            contactType:'By Phoene',
+            contactType:'By Phone',
             feedback:'',
             touched: {
                 firstName:false,
